@@ -1,0 +1,7 @@
+interface:
+  display_name: "Unity Shader Graph CN"
+  short_description: "中文讲解 Unity Shader Graph 效果"
+  default_prompt: "Use $unity-shader-graph-cn to explain a Unity Shader Graph effect in Chinese with fixed output structure, Graph Settings, node connections, and troubleshooting prompts."
+
+policy:
+  allow_implicit_invocation: true
